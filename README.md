@@ -14,3 +14,5 @@ We can also play the game against other players.
 3. 0 - random ai
 4. 1 - minimax ai (smart)
 ```
+
+<p><img src='snapshots/gameplay.png'></p>
